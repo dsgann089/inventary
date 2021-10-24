@@ -1,2 +1,2 @@
 # inventary
-esto fue echo  para un cliente de una panadería  esta echo en java  y con base de datos 
+Este invwntario  fue echo con el MVC  ya que esto es un proyecto basado en eso  espero que puedan  mirarlo y es genial
